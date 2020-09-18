@@ -1,0 +1,25 @@
+table {
+	width: 400px;
+	height: 600px;
+	box-sizing: border-box;
+	table-layout: fixed;
+}
+td {
+	width: 20px;
+	height: 20px;
+	padding: 0;
+	border: 1px solid #000;
+}
+
+.gamer1 {
+	background: red;
+}
+.gamer2 {
+	background: green;
+}
+.gamer3 {
+	background: yellow;
+}
+.button{
+	margin-top: 30px;
+}
